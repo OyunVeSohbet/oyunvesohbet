@@ -1,0 +1,2 @@
+# oyunvesohbet
+bot
